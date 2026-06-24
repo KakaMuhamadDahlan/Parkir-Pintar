@@ -1,5 +1,5 @@
 # UAS KAKA MUHAMAD DAHLAN
-Project UAS Struktur Data Program Parkir Pintar UAS Struktur Data
+Project UAS Struktur Data Program Parkir Pintar
 
 ## Fitur
 - Tambah data kendaraan
