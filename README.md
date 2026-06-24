@@ -7,5 +7,4 @@ Project UAS Struktur Data Program Parkir Pintar
 - Cari kendaraan
 - Update data
 - Hapus data
-- Antrian kendaraan (Queue)
 - Sorting data
